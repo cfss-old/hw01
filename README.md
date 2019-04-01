@@ -13,7 +13,7 @@ My name is **Xiaogao Zhou**, I am a first year PhD student in the department of 
 
 ### Here is a photo of me
 
-![Here is a photo of me](<iframe src="https://onedrive.live.com/embed?cid=B8D24D9CF880E0DD&resid=B8D24D9CF880E0DD%2145104&authkey=AD7J5d9wm8XHfuc" width="320" height="320" frameborder="0" scrolling="no"></iframe>)
+<iframe src="https://onedrive.live.com/embed?cid=B8D24D9CF880E0DD&resid=B8D24D9CF880E0DD%2145104&authkey=AD7J5d9wm8XHfuc" width="320" height="320" frameborder="0" scrolling="no"></iframe>
 
 *[click here](https://sociology.uchicago.edu/directory/xiaogao-zhou) to learn more about me!*
 
