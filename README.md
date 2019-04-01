@@ -1,29 +1,30 @@
 # hw01
 Repository for homework 01
 
-## Hello!
+# Hello!
 
 My name is **Xiaogao Zhou**, I am a first year PhD student in the department of sociology. 
 
-### My interests are centered around:
+## My interests are centered around:
 
 * Gender and Sexuality
 * Medicine and Health
 * Transnational Processes
 
-### Here is a photo of me
+## Here is a photo of me
 
-<iframe src="https://onedrive.live.com/embed?cid=B8D24D9CF880E0DD&resid=B8D24D9CF880E0DD%2145104&authkey=AD7J5d9wm8XHfuc" width="320" height="320" frameborder="0" scrolling="no"></iframe>
+![Here is a photo of me](https://sociology.uchicago.edu/sites/sociology.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/XiaogaoZ.jpg)
 
 *[click here](https://sociology.uchicago.edu/directory/xiaogao-zhou) to learn more about me!*
 
-## Reflections for HW01
+# Reflections for HW01
 
-### Challenges in the assignment:
+## Challenges in the assignment:
 
 1. Markdown is does not illsutrate how syntax changes would be reflected on the website compared to GUI. Thus I have to constantly check on github and adjust how I use syntaxes. 
-1. Finding a direct link of my own picture for the introduction takes a bit more effort. 
+1. Finding a link of a picture usable for the introduction takes a bit more effort.
 
-### What helped in the assignment:
+## What helped in the assignment:
 
 1. The github guide for markdown comes really handy. 
+1. Git is very helpful in keeping track of different versions. When I realized that I was in a dead end finding reliable direct link to images from various cloud services (google/onedrive/dropbox), I could easily roll back to the earlier version before the changes. 
