@@ -1,5 +1,6 @@
 # Claire
-![A picture of me taken by my sister.](IMG_9936 copy.png)
+![*A picture of me from over Spring break.*](IMG_9936 copy.png)
+
 I am a **second year** at the College studying **American history** from **New York City**.
 
 ### On Campus
