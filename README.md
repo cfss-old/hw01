@@ -4,4 +4,4 @@
 * Chicago
 * London
 ![GitHub Logo](IMG_0028.JPG)
-[GitHub](http://github.com)
+[Click on for the link of Github](http://github.com)
