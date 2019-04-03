@@ -4,6 +4,4 @@
 * Chicago
 * London
 ![GitHub Logo](IMG_0028.JPG)
-Format: ![Alt Text](url)
-http://github.com - automatic!
 [GitHub](http://github.com)
