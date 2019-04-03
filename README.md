@@ -19,10 +19,19 @@ My name is **Xiaogao Zhou**, I am a first year PhD student in the department of 
 
 # Reflections for HW01
 
+## How I got changes into README.md 
+
+1. I forked HW01 from class github and, pulled the repo github. 
+1. I opened a new project with git and opened "README.md" from files coloum.
+1. I used markdown language to write my introductions, save the file and use commit the changes through Git.
+1. I push the button to update the changes to github, and go to github to check how the README.md looks like. 
+1. Making adjustmentsand repeat step three until finishing editing. 
+
+
 ## Challenges in the assignment:
 
 1. Markdown is does not illsutrate how syntax changes would be reflected on the website compared to GUI. Thus I have to constantly check on github and adjust how I use syntaxes. 
-1. Finding a link of a picture usable for the introduction takes a bit more effort.
+1. Finding a direct link of a picture usable for the introduction takes a bit more effort.
 
 ## What helped in the assignment:
 
