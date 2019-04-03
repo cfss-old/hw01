@@ -1,8 +1,8 @@
-#Pete Cuppernull 
+# Pete Cuppernull 
 
-##Computing for the Social Sciences
+## Computing for the Social Sciences
 
-##Homework Assignment 1
+## Homework Assignment 1
 
 ### **Biography**
 
