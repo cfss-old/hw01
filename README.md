@@ -12,6 +12,8 @@ Additionally, here is a picture of my favorite animal
 
 ![Tiger](http://goodnature.nathab.com/wp-content/uploads/2014/07/7465214366_5d0cb50707_k.jpg)
 
-That's enough facts for now, but there are many more. 
+That's enough facts for now, but there are many more.
+
+Here is an excellent [site](https://cfss.uchicago.edu) if you want to learn more about how I created this document.
 
 
