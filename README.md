@@ -1,4 +1,4 @@
-#Homework One
+# Homework One
 *by Gabriel Kahn*
 
 Hello my name is Gabriel Kahn and I am **very** excited to be taking this course with all of you. There are lots of fun facts of abut me. Let's make a list:
