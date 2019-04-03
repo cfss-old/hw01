@@ -4,4 +4,4 @@
 * Chicago
 * London
 ![GitHub Logo](IMG_0028.JPG)
-[Click on for the link of Github](http://github.com)
+[Click on for the link to Class Website](https://cfss.uchicago.edu/)
