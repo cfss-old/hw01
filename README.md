@@ -18,7 +18,7 @@ After exploring these other interests, I decided to return to school to pursue m
 
 Here is a photo of myself. \newline
 
-![Here is a photo of myself.](/Users/petecuppernull/Dropbox/UChicago/2018-19/Spring/CFSS/photo.jpg)
+![Here is a photo of myself.](/Users/petecuppernull/Dropbox/UChicago/2018-19/Spring/CFSS/Repositories/Homework 1/photo.jpg)
 \newline
 
 [Here is a link to the UChicago Homepage](https://www.uchicago.edu/)
