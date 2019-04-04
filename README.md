@@ -18,5 +18,5 @@
 
 6. Went to Oberlin College
 
-[my face](/Users/nathanielsher/Desktop/cfssrepo/hw01)
+[my face](figures/35682319_2227964173885731_5758648238731165696_o.jpg)
 
