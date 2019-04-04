@@ -1,4 +1,4 @@
-#A Beginner's Guide to __Kelsey Pagorek__
+# A Beginner's Guide to __Kelsey Pagorek__
 ##### There are three main things a beginner should know about Kelsey Pagorek before encountering her in the wild: things to do, things to avoid, and how to disable.
 
 ### 1. Things to do
