@@ -1,8 +1,7 @@
 # hw01
 
-## Biography of Nathaniel Sher
+## Biography of Nathaniel Sher, *B.A.*
 
-*Biography*
 **Day 1**
 * Born in Ukraine
 * Real name: satoshi nakamoto
