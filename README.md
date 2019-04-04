@@ -3,8 +3,8 @@ Repository for homework 01
 # hw01
 Repository for homework 01
 
-#Project 1
-Hello, my name is Yael Katz. I am very excited to be in this class but also *very* nervous. I am a **MAPPS Econ** student and plan to go to industry.
+# Project 1 by Yael Katz
+Hello, my name is Yael Katz. I am very excited to be in this class but also *very* nervous. I am a **MAPSS Econ** student and plan to go to industry.
 
 My facorite animals are
 
