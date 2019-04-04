@@ -1,7 +1,8 @@
-#hw01
+# hw01
+
 Repository for homework 01
 
-##Claire Brainard Bio
+## Claire Brainard Bio
 
 Here is a list of things I enjoy doing:
 
@@ -27,5 +28,6 @@ Here is a list of things I enjoy doing:
 I also love me a CrunchWrap Supreme from Taco Bell.
 Here is a link to google images of those:
 [LINK](https://www.google.com/search?q=taco+bell+crunchwrap+supreme&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi15PXum7fhAhVr4YMKHefDAi0Q_AUIDigB&biw=1440&bih=837&dpr=2)
+
 
 
