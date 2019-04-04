@@ -2,8 +2,17 @@
 
 ## Biography of Nathaniel Sher, *B.A.*
 
-**Day 1**
-* Born in Ukraine
-* Real name: satoshi nakamoto
-[This is the first thing I wrote](http://chicagopolicyreview.org/2018/12/21/can-china-tip-the-balance-the-security-dilemma-in-east-asia/)
+**Code name: satoshi**
+
+*Timeline*
+
+1. Born in Nairobi
+
+2. Moved to San Francisco
+
+3. Leanred to walk
+
+4. Learned to speak
+
+5. [Wrote this](http://chicagopolicyreview.org/2018/12/21/can-china-tip-the-balance-the-security-dilemma-in-east-asia/)
 
