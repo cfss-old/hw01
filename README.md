@@ -16,3 +16,7 @@
 
 5. [Wrote this](http://chicagopolicyreview.org/2018/12/21/can-china-tip-the-balance-the-security-dilemma-in-east-asia/)
 
+6. Went to Oberlin College
+
+[my face](/Users/nathanielsher/Desktop/cfssrepo/hw01)
+
