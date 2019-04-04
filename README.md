@@ -10,7 +10,7 @@
 
 2. Moved to San Francisco
 
-3. Leanred to walk
+3. Learned to walk
 
 4. Learned to speak
 
@@ -18,5 +18,5 @@
 
 6. Went to Oberlin College
 
-![my face](/Users/nathanielsher/Desktop/cfssrepo/hw01/35682319_2227964173885731_5758648238731165696_o.jpg)
+![my face](/Users/nathanielsher/Desktop/cfssrepo/hw01/35682319_2227964173885731_5758648238731165696_o.jpg){width=100px; height:100px}
 
