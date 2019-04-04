@@ -1,6 +1,7 @@
 # hw01
-Repository for homework 01
-## Nathaniel Sher
+
+## Biography of Nathaniel Sher
+
 *Biography*
 **Day 1**
 * Born in Ukraine
