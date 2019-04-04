@@ -4,7 +4,7 @@
 ### 1. Things to do
 * Bring a dog. Kelsey's family has a dog named Milo, who is objectively adorable. She also is helping her boyfriend raise a lovable mutt named Sirius. Sirius was named after Sirius Black from *Harry Potter* because he looks a bit like the character's animagus. Milo and Sirius are pictured below:
 
-![](file:///C:/Users/Kelsey/Desktop/CFSS/hw01/MiloSirius.jpg)
+![MiloSirius](MiloSirius.jpg)
  
 * Offer food
 * Talk about Disney
