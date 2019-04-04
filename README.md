@@ -1,6 +1,3 @@
-# hw01
-Repository for homework 01
-
 ### Biography of Yan Hao Ng
 
 My name is Yan Hao Ng, and I am a Masters student in the Committee of International Relations course.
