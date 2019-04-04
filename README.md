@@ -2,22 +2,20 @@
 
 ## Biography of Nathaniel Sher
 
-**nickname: nate and/or satoshi**
+**Familiar Name: Nate**
 
 *Timeline*
 
-1. Born in Nairobi
+1. Born in San Francisco, CA USA
 
-2. Moved to San Francisco
+2. Learned to walk
 
-3. Learned to walk
+3. Learned to speak
 
-4. Learned to speak
+4. Went to Oberlin College
 
 5. [Wrote this](http://chicagopolicyreview.org/2018/12/21/can-china-tip-the-balance-the-security-dilemma-in-east-asia/)
 
-6. Went to Oberlin College
-
-<div style="width:100px; height:100px">
+<div style="width:50px; height:50px">
 ![my face](/Users/nathanielsher/Desktop/cfssrepo/hw01/35682319_2227964173885731_5758648238731165696_o.jpg)
 
