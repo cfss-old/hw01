@@ -2,7 +2,7 @@
 
 ## Biography of Nathaniel Sher, *B.A.*
 
-**Code name: satoshi**
+**nickname: nate or satoshi**
 
 *Timeline*
 
@@ -18,5 +18,5 @@
 
 6. Went to Oberlin College
 
-[my face](figures/35682319_2227964173885731_5758648238731165696_o.jpg)
+![my face](figures/35682319_2227964173885731_5758648238731165696_o.jpg)
 
