@@ -1,8 +1,8 @@
 # hw01
 
-## Biography of Nathaniel Sher, *B.A.*
+## Biography of Nathaniel Sher
 
-**nickname: nate or satoshi**
+**nickname: nate and/or satoshi**
 
 *Timeline*
 
@@ -18,5 +18,5 @@
 
 6. Went to Oberlin College
 
-![my face](figures/35682319_2227964173885731_5758648238731165696_o.jpg)
+![my face](/Users/nathanielsher/Desktop/cfssrepo/hw01/35682319_2227964173885731_5758648238731165696_o.jpg)
 
