@@ -1,5 +1,5 @@
 <center>
-![Image of Me](GitHubPhoto.jpg)
+! [Image of Me](GitHubPhoto.jpg)
 </center>
 
 # Eitan's Homework #1: A Brief Biography
