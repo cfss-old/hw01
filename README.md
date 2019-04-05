@@ -10,8 +10,8 @@
 > Bill Watterson
 
 
-#### Here's a photo of my grandfather and I on a hike in Spain last summer
-![](spain.png {:height="334px" width="445px"})
+#### Here's a photo of my grandfather and I on a hike in Spain last summer (I'm on the left).
+![](spain.png)
 
 
 ***  
@@ -65,17 +65,15 @@ While finishing up my thesis project in August 2019, I am planning to submit app
 
 ***
 
-## Links and Images   
-### A Single Link
-* [David Attenborought narrates the introduction to Adele's "Hello" music video (1:58)](https://www.youtube.com/watch?v=enu-qR0H_uk)  
+##A single link:  
+###  
+#### [David Attenborought narrates the introduction to Adele's "Hello" music video (1:58)](https://www.youtube.com/watch?v=enu-qR0H_uk)  
 
-### Images
-#### Aurora: my sister's **very** overweight cat
-![](aurora.png {:height="289px" width="300px"})
-
-
-#### A cilantro plant growing in my apartment that flowered
-![](cilantro.png {:height="264px" width="300px"})
+***
+##and a single image:  
+###
+#### Aurora: my sister's _**very**_ overweight cat
+![](aurora.png)
 
 
 ***
