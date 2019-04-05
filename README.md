@@ -11,7 +11,7 @@
 
 
 #### Here's a photo of my grandfather and I on a hike in Spain last summer
-![](images/spain.png){:height="334px" width="445px"}
+![](spain.png {:height="334px" width="445px"})
 
 
 ***  
@@ -71,11 +71,11 @@ While finishing up my thesis project in August 2019, I am planning to submit app
 
 ### Images
 #### Aurora: my sister's **very** overweight cat
-![](images/aurora.png){:height="289px" width="300px"}
+![](aurora.png {:height="289px" width="300px"})
 
 
 #### A cilantro plant growing in my apartment that flowered
-![](images/cilantro.png){:height="264px" width="300px"}
+![](cilantro.png {:height="264px" width="300px"})
 
 
 ***
