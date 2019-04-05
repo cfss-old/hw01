@@ -2,11 +2,11 @@
 
 hw01
 
-##Deena Bernett
+## Deena Bernett
 
 Note: I'm auditing this class, so you don't actually have to grade this unless you really want to.
 
-###Personal
+### Personal
 
 
 I'm *old*. I'm married with two kids (ages 5 and 8), and I live far from Hyde Park. Which, makes things fun.
