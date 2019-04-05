@@ -16,13 +16,14 @@ Photo of me illustrating oldness:
 ![](https://psychology.uchicago.edu/sites/psychology.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Bernett.jpg)
 
 
-###Professional
+### Professional
 
 I worked as a teacher in low-income urban public and charter schools for a decade before going back to school.
 
 [Here's](https://www.facebook.com/watch/?v=155528367800318 "Deena Teaching") a video of me teaching.
 
-###Academic
+
+### Academic
 
 I have a lot of degrees:
 
@@ -35,7 +36,8 @@ I hope to get my Ph.D. from U Chicago in 2020. Five degrees seems like enough, d
 
 I study learning and memory, with a specific emphasis on how people learn math.
 
-###*The End!*
+
+### *The End!*
 
 
 
