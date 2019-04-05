@@ -65,12 +65,12 @@ While finishing up my thesis project in August 2019, I am planning to submit app
 
 ***
 
-##A single link:  
+## A single link:  
 ###  
 #### [David Attenborought narrates the introduction to Adele's "Hello" music video (1:58)](https://www.youtube.com/watch?v=enu-qR0H_uk)  
 
 ***
-##and a single image:  
+## and a single image:  
 ###
 #### Aurora: my sister's _**very**_ overweight cat
 ![](aurora.png)
