@@ -1,7 +1,3 @@
-title: "HW 1"
-author: "Katie Furrow"
-date: "4/5/2019"
-output: html_document
 
 # About Katie
 I am a MAPSS student concentrating in Sociology. My knowledge and history with of computers is checkered; I mostly use them for writing papers and to play *Skyrim* (in the times before becoming an MA student).
