@@ -1,5 +1,5 @@
 # Jerry Shi
-![](jerry.jpg)
+![Me in DC over Spring Break! I had a great time there and gained at least five pounds from all the junk food I ate.](jerry.jpg)
 
 Intro
 =====
