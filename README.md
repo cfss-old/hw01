@@ -5,7 +5,7 @@ Repository for homework 01
 
 #### Introduction
 
-image: ![](path/to/DSC_0273.JPG)
+![Photo of me in the UK from this summer](path/to/DSC_0273.JPG)
 
 My name is Sion, and I am currently a MAPSS student in Political Science, specifically in American politics. I am interested in public opinion on socioeconomic issues, particularly policies like 
 * Medicare, 
