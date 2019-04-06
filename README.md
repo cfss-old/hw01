@@ -4,7 +4,7 @@
 ####_Focus: Political Theory_
 <https://www.linkedin.com/in/isaacradner/>
 
-![It's me!](/Users/Isaac/Desktop/Colorado College /senior year/head shots/3.jpg){width=250px}
+![It's me!](3.jpg){width=250px}
 
 ```{r}
 What do undertakers do to practice for funerals? 
