@@ -1,12 +1,10 @@
 # Leah Firestone
-![Image of Leah](https://github.com/leahvf/hw01/blob/master/leah.jpeg?raw=true)
+![Image of Me](https://github.com/leahvf/hw01/blob/master/leah.jpeg?raw=true)
 ## Personal life
-Hi all bye
-*Hi all bye*
-**Hi __all__ bye**
+Hi there! My name is Leah Firestone. I'm currently living in Chicago's **Gold Coast**. My husband and moved here from Tel Aviv, where we lived in the **Ramat Aviv** neighborhood.
 
 ## Professional life
-Bla Bla
+Before becoming a graduate student at the *University of Chicago*, I worked as a public relations professional at *Headline Media*. 
 
 Feel free to check my [LinkedIn](https://www.linkedin.com/in/leahvfirestone/) profile!
 
