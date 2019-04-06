@@ -5,7 +5,7 @@ Repository for homework 01
 
 ### Hi All! Here's a little about me: 
 * Grew up in the Seattle Area
-* Lived in Los Angeles Area prior to MAPSS
+* Lived in the Los Angeles Area prior to MAPSS
 * I've worn many hats since undergrad:
     * Au pairing in France
     * Film Production
@@ -27,4 +27,4 @@ Repository for homework 01
 #### Feel free to reach out on LinkedIn: (https://www.linkedin.com/in/hannahemadison/)
 
 #### And I will leave you with a picture of Rick Steves and me in the Hall of Mirrors at Versailles: 
-![Rick Steves](ricksteves.jpg)
+![Rick Steves](ricksteves.jpg) 
