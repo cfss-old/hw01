@@ -1,4 +1,4 @@
-![Image of Me](../master/GitHubPhoto.jpg)
+![Image of Me](GitHubPhoto.jpg)
 
 # Eitan's Homework #1: A Brief Biography
 
