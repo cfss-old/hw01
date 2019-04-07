@@ -3,7 +3,8 @@ Repository for homework 01
 
 #Homework Assignment 1
 ## Jon Griffiths
-### Computing for the Social Sciences
+### Computing for the Social Sciences 
+### 8 April 2019
 
 **Generic Info**
 Hello everyone, my name is Jon Griffiths, and I'm a MAPSS student concentrating in American Politics. I mainly examine what factors increase or decrease voter registration and turnout rates. For my thesis, I'm analyzing the effects of the Automatic Voter Registration policies that have sprung up following the 2016 election in several states. If you wish to learn more about Automatic Voter Registration, check out this  [website](http://www.ncsl.org/research/elections-and-campaigns/automatic-voter-registration.aspx). If you're interested in learning about anything else, I strongly recommend this [website](https://www.google.com/).
