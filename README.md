@@ -38,4 +38,6 @@ Hi there! I'm **Josie**, a second-year undergrad at UChicago pursuing degrees in
 * Butter 
 * Lemongrass Essential Oil
 
+### Reflection - also included in Github PR
 
+I have used RMarkdown for quite a while, so the markdown task was relatively swift for me. I had to google around about Git setup for Windows, and I ended up with a bash/SSH setup with a bit of luck. Tracking which files to commit was quite new to me. Overall version control is very helpful.
