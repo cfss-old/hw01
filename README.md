@@ -1,6 +1,6 @@
 # Hello!
 
-My name is **Xiaogao Zhou**, I am a first year PhD student in the department of sociology. 
+My name is **Xiaogao Zhou**, and I am a first year PhD student in the department of sociology. 
 
 ## My interests are centered around:
 
