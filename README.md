@@ -6,7 +6,7 @@
 Introduction
 ------
 
-Hi, my name is Jess Robinson, and I am a student in *Computing for the Social Sciences*, taughted by Professor Ben Soltoff. I am a third-year undergraduate in the College majoring in Political Science and Sociology, with a minor in Philosophy. I am excited to be learning more about computing!
+Hi, my name is Jess Robinson, and I am a student in *Computing for the Social Sciences*, taught by Professor Benjamin Soltoff. I am a third-year undergraduate in the College majoring in Political Science and Sociology and minoring in Philosophy. I am excited to be learning more about computing!
 
 My Work
 ------
