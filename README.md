@@ -1,4 +1,4 @@
-# hw01
+#Homework 1
 
 ![Photo](https://i.imgur.com/v8khSgY.png)
 
