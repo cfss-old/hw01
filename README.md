@@ -36,4 +36,6 @@ Hello all, My name is Dan Deng, a MAPSS student currently concentrating on _soci
 * Digital Arts and oil Paintings
     * WloP (My favorite CG artist)
 #### Some Fun Stuffs
-I am super addicted to movies--when I was fourteen, I basically watched 2 movies per day. I adore super hero movies too; to be more specific, I prefer **Marvel**superheroes than **DC**. I am super excited about the incoming avengers movie.
+I am super addicted to movies--when I was fourteen, I basically watched 2 movies per day. I adore super hero movies too; to be more specific, I prefer **Marvel** superheroes than **DC**. I am super excited about the incoming avengers movie.
+
+[Dan on Facebook](https://www.facebook.com/profile.php?id=100008480118236)
