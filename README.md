@@ -8,9 +8,9 @@ Repository for homework 01
 ## Date of Submission:4/7/2019
 
 ## General Info
-   * **Birth Place:**Nanjing,Jiangsu,China
-   * **University(Undergraduate):**the University of Chicago
-   *  **Major:**Sociology
+   * **Birth Place**：Nanjing,Jiangsu,China
+   * **University(Undergraduate)**：the University of Chicago
+   *  **Major**：Sociology
    *  **A Picture of Me**
 [Dan on Facebook](https://www.facebook.com/photo.php?fbid=1385364995089491&set=t.100008480118236&type=3&theater)
 
