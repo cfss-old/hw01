@@ -12,7 +12,7 @@ Repository for homework 01
    * **University(Undergraduate)**：the University of Chicago
    *  **Major**：Sociology
    *  **A Picture of Me**
-[Dan on Facebook](file:///D:/10429445_1385364995089491_8720378821134883041_n.jpg)
+![Dan on Facebook](file:///D:/10429445_1385364995089491_8720378821134883041_n.jpg)
 
 ### A Brief Introduction
 Hello all, My name is Dan Deng, a MAPSS student currently concentrating on _sociology_. I am now studying the institutionalization process of Chinese sociology as my M.A. thesis. I am planning to apply for Ph.D. programs this year.
