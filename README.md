@@ -1,6 +1,6 @@
 # hw01
 
-![Photo](https://imgur.com/v8khSgY)
+![Photo](https://i.imgur.com/v8khSgY.png)
 
 #Introduction
 Hi, my name is Jess Robinson, and I am a student in *Computing for the Social Sciences*, taughted by Professor Ben Soltoff. I am a third-year undergraduate in the College majoring in Political Science and Sociology, with a minor in Philosophy. I am excited to be learning more about computing!
