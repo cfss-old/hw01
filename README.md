@@ -15,12 +15,10 @@ A few of my hobbies of mine are:
 If I had to rank my favorite philosophers based on _writing style_, rather than _beliefs_, I would say:
 
 1. Jean-Jacques Rousseau
-2. Plato 
-3. Thomas Hobbes
+2. Thomas Hobbes 
+3. Plato
 
 My favorite online publications are
 
-* 
-[The Wall Street Journal](https://www.wsj.com/)
-*
-[The Economist](https://www.economist.com/)
+* [The Wall Street Journal](https://www.wsj.com/)
+* [The Economist](https://www.economist.com/)
