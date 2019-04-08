@@ -11,7 +11,7 @@ Hi, my name is Jess Robinson, and I am a student in *Computing for the Social Sc
 My Work
 ------
 
-Currently I am a data analyst at the [Violence, Law, and Politics Lab](https://vlplab.com), where I look at the effects of poliitcs and homicide patterns in US cities. 
+Currently I am a data analyst at the [Violence, Law, and Politics Lab](https://vlplab.com), where I look at the effects of politcs upon homicide patterns in US cities. 
 
 Social Media
 ------
