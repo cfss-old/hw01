@@ -1,7 +1,7 @@
 # hw01
 Repository for homework 01
 
-####### HOMEWORK 1 BY DOMINIC DICARLO
+###### HOMEWORK 1 BY DOMINIC DICARLO
 
 *Dom at a glance:*
 
@@ -15,5 +15,5 @@ Repository for homework 01
 
 *"So, how did you complete this homework?"*
 
-* I first installed git, R, and R studio on my computer. Then I forked the repo from the class hw1 directory to my own github, where I then cloned the repo onto my computer. I opened the markdown file in R Studio and I used the git markdown guide to learn how to add emphasis, make headings, and create lists. I saved the markdown file, added it to git, and then committed my add. 
+* I first installed git, R, and R studio on my computer. Then I forked the repo from the class hw1 directory to my own github, where I then cloned the repo onto my computer. I opened the markdown file in R Studio and I used the git markdown guide to learn how to add emphasis, make headings, and create lists. I saved the markdown file, added it to git, and then committed my add. I did the add and commit through the git bash terminal. After pushing this version to see if I could, I added these last few words right before I pushed my final version.
 
