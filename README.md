@@ -14,7 +14,7 @@ Repository for homework 01
 **A Picture of Me**[Dan on Facebook](https://www.facebook.com/photo.php?fbid=1385364995089491&set=t.100008480118236&type=3&theater)
 
 ### A Brief Introduction
-Hello all, My name is Dan Deng, a MAPSS student currently concentrating on **sociology**. I am now studying the institutionalization process of Chinese sociology as my M.A. thesis. I am planning to apply for Ph.D. programs this year.
+Hello all, My name is Dan Deng, a MAPSS student currently concentrating on _sociology_. I am now studying the institutionalization process of Chinese sociology as my M.A. thesis. I am planning to apply for Ph.D. programs this year.
 
 ## My interests and Hobbies
 ### Research Interest
