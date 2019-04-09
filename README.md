@@ -20,8 +20,8 @@ Hello all, My name is Dan Deng, a MAPSS student currently concentrating on _soci
 ## My interests and Hobbies
 ### Research Interest
 * Social OCccupations
-    *Professionalism and Deprofessionalism
-    *Ecological system
+    * Professionalism and Deprofessionalism
+    * Ecological system
 * Education
     * General Inequality
     * Social Segregation
